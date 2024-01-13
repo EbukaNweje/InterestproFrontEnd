@@ -131,9 +131,9 @@ console.log("p",passwordError, "PE", passwordErrorlow, "Pu", passwordErrorUpper,
    // Function to handle button state changes
    
    const data =  {email, userName, password}  
-   const url = "https://cheerful-fox-waders.cyclic.cloud/api/register"
+   const url = "https://interestpro-back-end.vercel.app/api/register"
 
-   const urll = "https://webtext-qigk.onrender.com/api/signupemailsand"
+   const urll = "https://interestpro-back-end.vercel.app/api/signupemailsand"
 
    const signupEmailSand = () => {
      axios.post(urll, {email})
@@ -178,7 +178,7 @@ console.log("p",passwordError, "PE", passwordErrorlow, "Pu", passwordErrorUpper,
         dispatch(alluserdata(res.data.data))
         console.log("this is the data", getId.data._id)
           setTimeout(() => {
-            window.location = `https://Interestpro-dashboard.vercel.app/#/${getId.data._id}}`
+            window.location = `https://interestproaccount.vercel.app/#/${getId.data._id}}`
             // navigate(`/userDashboard/${getId.data._id}`)
             // navigate(`/verify/${getId.data._id}`)
             console.log(getId._id);
