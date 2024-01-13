@@ -6,13 +6,13 @@ const LastFoter = () => {
     <Footersectionbuttom2>
     <Footersectionbuttom2wrap>
         <Leftfootertext>
-            <h5>© 2018 – 2023 whitebitcrypfield.org. All rights reserved</h5>
+            <h5>© 2018 – 2024 Interestpro.org. All rights reserved</h5>
         </Leftfootertext>
         <ImagePart>
-            <IconImag src='https://cdn.whitebit.com/static/img/footer/unicert.svg' alt='unicert'/>
-            <IconImag src='https://cdn.whitebit.com/static/img/footer/visa.svg' alt='visa'/>
-            <IconImag src='https://cdn.whitebit.com/static/img/footer/masterCard.svg' alt='masterCard'/>
-            <IconImag src='https://cdn.whitebit.com/static/img/footer/google.svg' alt='google'/>
+            <IconImag src='https://cdn.Interestpro.com/static/img/footer/unicert.svg' alt='unicert'/>
+            <IconImag src='https://cdn.Interestpro.com/static/img/footer/visa.svg' alt='visa'/>
+            <IconImag src='https://cdn.Interestpro.com/static/img/footer/masterCard.svg' alt='masterCard'/>
+            <IconImag src='https://cdn.Interestpro.com/static/img/footer/google.svg' alt='google'/>
         </ImagePart>
 
     </Footersectionbuttom2wrap>

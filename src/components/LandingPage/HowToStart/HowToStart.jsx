@@ -11,7 +11,7 @@ const HowToStart = () => {
         <div className="mainHeader">
           <h2>How To Start?</h2>
           <p>
-            Crypto trading is exciting if you’re with the WhiteBIT
+            Crypto trading is exciting if you’re with the Interestpro
             cryptocurrency trading platform. Take a few steps to get started and
             check it out yourself.
           </p>
@@ -63,9 +63,9 @@ const HowToStart = () => {
           <div className="stepsInfo2">
             <div className="stepsInfoBox">
               <div className="stepsInfoBoxText">
-                <p>Start with WhiteBIT</p>
+                <p>Start with Interestpro</p>
                 <p className="CryptoInfo">
-                  Your crypto journey starts with WhiteBIT, so grab the bull by
+                  Your crypto journey starts with Interestpro, so grab the bull by
                   the horns! Sign up and get access to all the features for
                   efficient trading right now. Let's set the level together!
                 </p>

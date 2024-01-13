@@ -29,8 +29,8 @@ export const HeaderLeft = styled.div`
 `
 
 export const Logo = styled.img`
-    width: 15%;
-    height: 100%;
+    width: 20%;
+    height: 50%;
     margin-left: 5%;
     margin-right: 10px;
 

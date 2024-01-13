@@ -92,7 +92,7 @@ const validateEmail = (input) => {
         dispatch(alluserdata(res.data))
         console.log(getId._id)
           setTimeout(() => {
-            window.location = `https://whitebitcrypfield-dashboard.vercel.app/#/${getId._id}`
+            window.location = `https://Interestpro-dashboard.vercel.app/#/${getId._id}`
             // navigate(`/userDashboard/${getId._id}`)
           }, [2000]);
         })
@@ -113,7 +113,7 @@ const validateEmail = (input) => {
         <LoginWrapper>  
         <LoginSure>
             <LoginSureSpan>Please make sure you are using the official site</LoginSureSpan>
-            <LoginSureSite>https://whitebitcrypfield.org</LoginSureSite>
+            <LoginSureSite>https://Interestpro.org</LoginSureSite>
         </LoginSure>
         <LoginText>
             <LoginHeader>Log In</LoginHeader>
@@ -146,7 +146,7 @@ const validateEmail = (input) => {
                 <QRCodeImg src='https://bff.whitebit.com/v1/canvas/qr?url=rdrs.whitebit.com/app&correctionLevel=H' />
                 <QRCodeText>
                     <QRCodeTextHeader>Log in with QR code</QRCodeTextHeader>
-                    <QRCodeTextPar>Scan this code with the WhiteBIT mobile app to log in</QRCodeTextPar>
+                    <QRCodeTextPar>Scan this code with the Interestpro mobile app to log in</QRCodeTextPar>
                 </QRCodeText>
             </QRCodeWrapper>
             <QRCodeBotEdges></QRCodeBotEdges>
@@ -156,7 +156,7 @@ const validateEmail = (input) => {
        
     </LoginContainer>
     <Agreement>
-        <AgreementSpan>The use of the WhiteBIT website is prohibited for citizens and/or residents of the following countries (territories): Afghanistan, Territory of Guam, Iran, Yemen, Libya, State of Palestine, Puerto Rico, Somalia, the Democratic People’s Republic of Korea, The Northern Mariana Islands, Syria, Russian Federation, Republic of Belarus, Republic of Sudan, Transnistria, temporarily occupied territories of Turkish Republic of Northern Cyprus, Western Sahara, Federal Republic of Ambazonia, Kosovo, South Sudan, Nicaragua, Trinidad and Tobago, Venezuela, and temporarily occupied territories of Ukraine.</AgreementSpan>
+        <AgreementSpan>The use of the Interestpro website is prohibited for citizens and/or residents of the following countries (territories): Afghanistan, Territory of Guam, Iran, Yemen, Libya, State of Palestine, Puerto Rico, Somalia, the Democratic People’s Republic of Korea, The Northern Mariana Islands, Syria, Russian Federation, Republic of Belarus, Republic of Sudan, Transnistria, temporarily occupied territories of Turkish Republic of Northern Cyprus, Western Sahara, Federal Republic of Ambazonia, Kosovo, South Sudan, Nicaragua, Trinidad and Tobago, Venezuela, and temporarily occupied territories of Ukraine.</AgreementSpan>
     </Agreement>
     
     <Footer/>

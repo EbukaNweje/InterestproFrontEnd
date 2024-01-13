@@ -26,8 +26,8 @@ const FooterSection = () => {
                         <div style={{margin: "10px 0px"}}>
                         <ul>
                                 <h3>Products and Services</h3>
-                                {/* <li>WhiteBIT Earn</li>
-                                <li>WhiteBIT Coin</li>
+                                {/* <li>Interestpro Earn</li>
+                                <li>Interestpro Coin</li>
                                 <li>Download application</li>
                                 <li>Apple iconAndroid icon</li> */}
                                 <Link to="/referral" style={{color:"#B5B5B7"}}>
@@ -72,8 +72,8 @@ const FooterSection = () => {
                                     <Link to="/privacy" style={{color:"#B5B5B7"}}>
                                     <li>Privacy policy</li>
                                     </Link>
-                                <li>support@whitebitcrypfield.org</li>
-                                <li>partnerships@whitebitcrypfield.org</li>
+                                <li>support@interestpro.org</li>
+                                <li>partnerships@interestpro.org</li>
                             </ul>
                         </div>
                     </div>

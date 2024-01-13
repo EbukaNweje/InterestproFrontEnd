@@ -13,12 +13,12 @@ const WhiteComSC = () => {
   return (
     <MainWhite className="mainWhite">
       <MainWhiteWraps className="mainWhiteWraps">
-        <H3>WhiteBIT Community</H3>
+        <H3>Interestpro Community</H3>
         <P>
-          There is an excellent team behind WhiteBIT, and we adore communicating
+          There is an excellent team behind Interestpro, and we adore communicating
           with our users! We have large communities where you can chat with
           other enthusiasts, read news from the crypto world, and be the first
-          to know the WhiteBIT updates.
+          to know the Interestpro updates.
         </P>
         <Ul>
           <Li>
