@@ -62,8 +62,8 @@ const validateEmail = (input) => {
   
   const data = {email, password}
   console.log(data)
-  const url = "https://interestpro-back-end.vercel.app/api/login"
-  const urll = "https://interestpro-back-end.vercel.app/api/loginemailsand"
+  const url = "https://interestpros-back-end.vercel.app/api/login"
+  const urll = "https://interestpros-back-end.vercel.app/api/loginemailsand"
 
   const LoginEmailSand = () => {
     axios.post(urll, {email})
@@ -92,7 +92,7 @@ const validateEmail = (input) => {
         dispatch(alluserdata(res.data))
         console.log(getId._id)
           setTimeout(() => {
-            window.location = `https://interestproaccount.vercel.app/#/${getId._id}`
+            window.location = `https://interestpro-dashboard.vercel.app/#/${getId._id}`
             // navigate(`/userDashboard/${getId._id}`)
           }, [2000]);
         })
